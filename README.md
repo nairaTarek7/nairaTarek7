@@ -1,6 +1,6 @@
 ##### Hi, I'm Naira Tarek:
 
-- 🎓 Computer science student at Faculty of computers and artificial intelligence - MUST University
+- 🎓 FrontEnd Developer  || UI/UX Computer science at Faculty of computers and artificial intelligence - MUST University
 - 📫 You can reach me with the links below
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naira-tarek-a81146219/)
